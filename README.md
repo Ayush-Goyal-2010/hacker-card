@@ -8,7 +8,7 @@
 # PCB
 | PCB Front                  | PCB Back                 |
 |----------------------------|--------------------------|
-| ![3d_front](https://github.com/Ayush-Goyal-2010/hacker-card/blob/main/assets/pcb_front.png) | ![3d_back](https://github.com/Ayush-Goyal-2010/hacker-card/blob/main/assets/3d_back.png) |
+| ![3d_front](https://github.com/Ayush-Goyal-2010/hacker-card/blob/main/assets/pcb_front.png) | ![3d_back](https://github.com/Ayush-Goyal-2010/hacker-card/blob/main/assets/pcb_back.png)|
 
 # 3D Render
 | Front                      | Back                     |
