@@ -15,7 +15,7 @@ I first learnt how to use EasyEDA. Then i followed the instructions and learnt t
 
 **Total time spent: 1.25 hours**
 
-# August 25th: Made the actual card!!
+# August 28th: Made the actual card!!
 
 I decided to make a fun scavenger hunt thingie for the back of my card. Also decided to add my favorite pokemon character which itself took a while. Also polished the design of the pcb
 
